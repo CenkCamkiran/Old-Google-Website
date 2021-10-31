@@ -1,0 +1,77 @@
+.image-container {
+  display: flex;
+  justify-content: center;
+}
+
+.top-container {
+  margin: auto;
+  width: 90%;
+}
+
+.upper-container {
+  top: 50%;
+  left: 50%;
+  background-color: rgb(238, 238, 238);
+}
+
+.text-container {
+  text-align: center;
+}
+
+.input-container {
+  text-align: center;
+}
+
+.button-container {
+  text-align: center;
+}
+
+.bottom-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 2px;
+}
+
+.first-container {
+  display: flex;
+  justify-content: center;
+  width: 37.5%;
+  background-color: rgb(126, 229, 218);
+}
+
+.second-container {
+  display: flex;
+  justify-content: center;
+  width: 25%;
+  background-color: rgb(112, 204, 194);
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.third-container {
+  display: flex;
+  justify-content: center;
+  width: 37.5%;
+  background-color: rgb(98, 179, 170);
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  font-size: small;
+}
+
+.row-container {
+  top: 50%;
+  left: 50%;
+  text-align: center;
+}
+
+.text {
+  font-size: small;
+  text-decoration: underline;
+}
+
+.text-other {
+  font-size: small;
+}
